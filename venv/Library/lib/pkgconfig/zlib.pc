@@ -1,0 +1,13 @@
+prefix=F:/dpiit_budget_analysis/venv/Library
+exec_prefix=F:/dpiit_budget_analysis/venv/Library
+libdir=F:/dpiit_budget_analysis/venv/Library/lib
+sharedlibdir=F:/dpiit_budget_analysis/venv/Library/lib
+includedir=F:/dpiit_budget_analysis/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
