@@ -47,7 +47,7 @@ Project Completed. Visuals available on request.
 
 - 📊 [Power BI Dashboard (optional)](#)
 - 📂 [Download Cleaned CSV](dpiit_budget_analysis_full.csv)
-- 📝 [Read Full Case Study](DPIIT_Budget_Case_Study.md)
+- 📝 [Read Full Case Study]([DPIIT_Budget_Case_Study.md](https://rkthedataanalyst.blogspot.com/2025/07/dpiit-budget-allocation-analysis.html))
 
 ## 🙌 Acknowledgments
 
