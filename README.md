@@ -1,4 +1,3 @@
-
 # 🏛️ DPIIT Budget Allocation Analysis (FY2021–25)
 
 This repository presents an end-to-end data analytics project focused on analyzing the **Union Budget allocation** for India’s **Department for Promotion of Industry and Internal Trade (DPIIT)**. It explores how key industrial schemes have evolved over recent years and provides insights using Python, Power BI, and Excel.
@@ -61,9 +60,3 @@ Project Completed. Visuals available on request.
 
 """
 
-# Save the README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_md)
-
-readme_path
